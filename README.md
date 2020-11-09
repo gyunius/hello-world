@@ -1,2 +1,5 @@
 # hello-world
-for test
+
+Hi guys!
+
+CHanggyun here in github!
